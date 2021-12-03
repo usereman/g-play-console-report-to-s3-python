@@ -7,6 +7,7 @@ Step 1: Create a service account
     Follow the on-screen instructions and select Create.
     Copy the email address listed.
         Example: accountName@project.iam.gserviceaccount.com
+    Please note that new service account may take up to 24 hours to work.
 
  
 Step 2: Add the service account on Play Console
