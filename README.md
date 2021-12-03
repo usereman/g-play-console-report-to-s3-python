@@ -1,7 +1,3 @@
-# g-play-console-report-to-s3-python
- 
-# For Google authorization and integration witht the code, Please follow steps below
-# Download reports using a client library and service account
 Step 1: Create a service account
 
     Open Google Developers Console.
