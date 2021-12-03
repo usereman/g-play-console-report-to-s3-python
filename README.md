@@ -1,3 +1,4 @@
+# Google Authorization
 Step 1: Create a service account
 
     Open Google Developers Console.
@@ -26,9 +27,10 @@ Step 3: Replace private_key.json with your private_key.json
 
  # Google cloud storage bucket details
  You can copy your Google Cloud Storage URI by following below steps:
-  Sign in to your google play console
-  Expand download reports section from the menu on the left (make sure you are not inside the app)
-  Click your desired report section and your find button "Copy cloud storage URI"
-  Your Cloud Storage URI begins with pubsite_prod_rev (e.g., pubsite_prod_rev_01234567890987654321).
+ 
+    Sign in to your google play console.
+    Expand download reports section from the menu on the left. (make sure you are not inside the app)
+    Click your desired report section and your find button "Copy cloud storage URI".
+    Your Cloud Storage URI begins with pubsite_prod_rev (e.g., pubsite_prod_rev_01234567890987654321).
   
   For files/paths inside bucket, please see "Commands and file formats for detailed reports" section by clicking this link https://support.google.com/googleplay/android-developer/answer/6135870
